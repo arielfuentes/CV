@@ -1,0 +1,203 @@
+---
+title: "Ariel Fuentes Curriculum"
+author: Ariel Fuentes
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(knitr)
+```
+
+Aside
+================================================================================
+
+
+```{r out.width = "60%", echo = F}
+include_graphics(path = "picture/profile.jpeg")
+```
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ariel.fuentesdi@usach.cl
+- <i class="fa fa-github"></i> [github.com/arielfuentes](https://github.com/arielfuentes)
+- <i class="fa fa-phone"></i> +56 9 92951894
+- <i class="fa fa-twitter"></i> [ariel_esteban](https://twitter.com/ariel_esteban)
+- <i class="fa fa-linkedin"></i> [Ariel Fuentes](https://www.linkedin.com/in/ariel-fuentes-81215834/)
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experiencia en Análisis Espacial, Análisis Estadístico, Machine Learning y Optimización.
+
+- R, SQL, Markdown, Github, QGIS, Azure
+
+- Liderazgo
+
+Idiomas {#languages}
+--------------------------------------------------------------------------------
+
+- Español Nativo
+- Inglés Avanzado
+- Francés Intermedio
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+Este Curriculum fue confeccionado con la librería de R [**pagedown**] y disponible en cuenta Github.
+
+Última actualización  `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ariel Fuentes {#title}
+--------------------------------------------------------------------------------
+Cientista de Datos especializado en la automatización, visualización, modelamiento de datos geoespaciales y de Transporte. 
+
+Apasionado en desarrollo de Metodologías para la resolución de problemas.
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Coursera Project Network
+
+Predictive Modelling with Azure Machine Learning Studio
+
+Coursera
+
+2021
+
+### IFICC
+
+Ciencia de Datos: Teoría, Práctica y el Futuro de los Datos
+
+Santiago, Chile
+
+2019
+
+### Johns Hopkins University
+
+The Data Scientist's Toolbox,
+R Programming
+
+Coursera
+
+2015
+
+### Universidad de Santiago de Chile
+
+Licenciatura en Ciencias de la Ingeniería, 
+Egresado Ingeniería Civil en Geografía
+
+Santiago, Chile
+
+2011
+
+Proyectos Relevantes {data-icon=laptop}
+--------------------------------------------------------------------------------
+### Predicción de Demanda de Bus
+
+Transdev
+
+Santiago, Chile
+
+2021
+
+- Se genera modelo de Regresión **Random Forest** para obtener demanda de nueva línea de Bus.
+
+### Predicción Espacio-Temporal de Generación de Viajes
+
+IFICC
+
+Santiago, Chile
+
+2021
+
+- Se genera modelo bayesiano CAR 
+
+### Análisis para Modelo de Asignación de Transporte Público
+
+Transdev
+
+Santiago, Chile
+
+2018
+
+- Se automatiza limpieza  e imputación de tabla de viajes según patrones de Origen - Destino.
+- Se confecciona modelo geoespacial de clasificación no supervisada para producir subzonificación.
+- A través de consultas SQL y procesos geoespaciales se generan los input de demanda para modelo de Asignación en función de subzonificación.
+
+### Análisis de Demanda por Modificación al Plan Operacional
+
+Transdev
+
+Santiago, Chile
+
+2018
+
+- Se automatiza en **R** consultas **SQL** a base de datos de viajes y etapas de viaje en combinación con procesos geoespaciales para presentación de informes de Modificación de Plan Operacional.
+
+### Implementación de KPI para análisis de Transacciones y Operación 
+
+Transdev
+
+Santiago, Chile
+
+2017-2014
+
+- KPI son almacenados en la nube en una plataforma interna para analizar evolutivo y realizar regresiones multilineales
+- Proceso incialmente realizado en **Power Pivot** en combinación con **SQL Server**
+- Se implementa proceso en **R** para su respectiva automatización y producción de reportería con **R Markdown** con el propósito de generar un mayor nivel de eficiencia en la producción de los KPI mensuales.
+  
+
+Experiencia Profesional {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Ingeniero de Estudios
+
+Transdev Chile S.A.
+
+Santiago, Chile
+
+Del presente al 2019 
+
+::: concise
+- Evaluar Modificaciones al Plan Operacional
+- Análisis de Datos
+- Evaluar postulación a Nuevos Proyectos
+:::
+
+### Ingeniero de Estudios
+
+Redbus Urbano S.A.
+
+Santiago, Chile
+
+2019 - 2013
+
+::: concise
+- Coordinar Mediciones de Terreno
+- Generar Propuestas de cambios al Plan Operacional
+- Evaluar Modificaciones al Plan Operacional 
+- Coordinar comunicación al Usuario
+- Análisis de Datos
+:::
+
+### Ayudante de Ingeniería de Transporte
+
+USACH
+
+Santiago, Chile
+
+2010
