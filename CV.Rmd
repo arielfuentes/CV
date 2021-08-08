@@ -38,7 +38,7 @@ Habilidades {#skills}
 
 - Experiencia en Análisis Espacial, Análisis Estadístico, Machine Learning y Optimización.
 
-- R, SQL, Markdown, Github, QGIS, Azure
+- R, SQL, Markdown, Github, QGIS, Azure, Python
 
 - Liderazgo
 
