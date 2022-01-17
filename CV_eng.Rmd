@@ -33,28 +33,28 @@ Contacto {#contact}
 - <i class="fa fa-linkedin"></i> [Ariel Fuentes](https://www.linkedin.com/in/ariel-fuentes-81215834/)
 
 
-Habilidades {#skills}
+Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experiencia en Análisis Espacial, Análisis Estadístico, Machine Learning y Optimización.
+- Statistical Analysis and Modelling, Spatial Statistical Analysis and Modelling, Machine Learning.
 
 - R, SQL, Markdown, Github, QGIS, Azure, Python
 
-- Liderazgo
+- Leadership
 
-Idiomas {#languages}
+Languages {#languages}
 --------------------------------------------------------------------------------
 
-- Español Nativo
-- Inglés Avanzado
-- Francés Intermedio
+- Spanish Native Speaker
+- Advanced English 
+- Intermediate French
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-Este Curriculum fue confeccionado con la librería de R [**pagedown**] y disponible en cuenta Github.
+This Curriculum was made with the R package [**pagedown**] and available at Github.
 
-Última actualización  `r Sys.Date()`.
+Latest update  `r Sys.Date()`.
 
 
 
@@ -63,9 +63,7 @@ Main
 
 Ariel Fuentes {#title}
 --------------------------------------------------------------------------------
-Cientista de Datos especializado en la automatización, visualización, modelamiento de datos geoespaciales y de Transporte. 
-
-Apasionado en desarrollo de Metodologías para la resolución de problemas.
+Data Scientist specialized at the analysis, visualization and data modelling of Spatial and Transportation problems.
 
 Educación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -80,7 +78,7 @@ Coursera
 
 ### IFICC
 
-Ciencia de Datos: Teoría, Práctica y el Futuro de los Datos
+Data Science: Theory, Practice and the future of the Data.
 
 Santiago, Chile
 
@@ -97,16 +95,15 @@ Coursera
 
 ### Universidad de Santiago de Chile
 
-Licenciatura en Ciencias de la Ingeniería, 
-Egresado Ingeniería Civil en Geografía
+Geographical Engineering
 
 Santiago, Chile
 
 2011
 
-Proyectos Relevantes {data-icon=laptop}
+Featured Projects {data-icon=laptop}
 --------------------------------------------------------------------------------
-### Predicción de Demanda de Bus
+### Forecast the Demand of Bus Routes 
 
 Transdev
 
@@ -114,7 +111,7 @@ Santiago, Chile
 
 2021
 
-- Se genera modelo de Regresión **Random Forest** para obtener demanda de nueva línea de Bus.
+- Asses the effect of new Route Lines using a **Random Forest** model.
 
 ### Predicción Espacio-Temporal de Generación de Viajes
 
