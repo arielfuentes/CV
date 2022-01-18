@@ -113,7 +113,7 @@ Santiago, Chile
 
 - Asses the effect of new Route Lines using a **Random Forest** model.
 
-### Predicción Espacio-Temporal de Generación de Viajes
+### Spatio-Temporal Forecast of Trip Generation with CAR model.
 
 IFICC
 
@@ -121,9 +121,7 @@ Santiago, Chile
 
 2021
 
-- Se genera modelo bayesiano CAR 
-
-### Análisis para Modelo de Asignación de Transporte Público
+### Transit Assigment Model
 
 Transdev
 
@@ -131,11 +129,10 @@ Santiago, Chile
 
 2018
 
-- Se automatiza limpieza  e imputación de tabla de viajes según patrones de Origen - Destino.
-- Se confecciona modelo geoespacial de clasificación no supervisada para producir subzonificación.
-- A través de consultas SQL y procesos geoespaciales se generan los input de demanda para modelo de Asignación en función de subzonificación.
+- Data Analysis of smart cards for mobility.
+- Clustering model to create a new zone system to improve model accuracy.
 
-### Análisis de Demanda por Modificación al Plan Operacional
+### Data Analysis to Improve Operational Planning 
 
 Transdev
 
@@ -143,20 +140,13 @@ Santiago, Chile
 
 2018
 
-- Se automatiza en **R** consultas **SQL** a base de datos de viajes y etapas de viaje en combinación con procesos geoespaciales para presentación de informes de Modificación de Plan Operacional.
-
-### Implementación de KPI para análisis de Transacciones y Operación 
+### KPI Implementation 
 
 Transdev
 
 Santiago, Chile
 
 2017-2014
-
-- KPI son almacenados en la nube en una plataforma interna para analizar evolutivo y realizar regresiones multilineales
-- Proceso incialmente realizado en **Power Pivot** en combinación con **SQL Server**
-- Se implementa proceso en **R** para su respectiva automatización y producción de reportería con **R Markdown** con el propósito de generar un mayor nivel de eficiencia en la producción de los KPI mensuales.
-  
 
 Experiencia Profesional {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -167,12 +157,12 @@ Transdev Chile S.A.
 
 Santiago, Chile
 
-Desde 2021 
+Since 2021 
 
 ::: concise
-- Modelos de Predicción de Demanda
-- Análisis de Datos
-- Desarrollos de Metodologías
+- Forecast Modelling
+- Data Analysis
+- Methodologies Creation
 :::
 
 ### Ingeniero de Estudios
@@ -181,15 +171,15 @@ Transdev Chile S.A.
 
 Santiago, Chile
 
-Desde 2019 
+Since 2019 
 
 ::: concise
-- Evaluar Modificaciones al Plan Operacional
-- Análisis de Datos
-- Evaluar postulación a Nuevos Proyectos
+- Evaluate Operational Plan
+- Data Analysis
+- Evaluate New Transportation Business
 :::
 
-### Ingeniero de Estudios
+### Studies Enginneer
 
 Redbus Urbano S.A.
 
@@ -198,14 +188,13 @@ Santiago, Chile
 2019 - 2013
 
 ::: concise
-- Coordinar Mediciones de Terreno
-- Generar Propuestas de cambios al Plan Operacional
-- Evaluar Modificaciones al Plan Operacional 
-- Coordinar comunicación al Usuario
-- Análisis de Datos
+- Surveys Planning
+- Create and Evaluate Proposals for the Operational Plan
+- Marketing Strategy
+- Data Analysis
 :::
 
-### Ayudante de Ingeniería de Transporte
+### Teaching Assistant on Transportation Engineering
 
 USACH
 
