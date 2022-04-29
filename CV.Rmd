@@ -36,9 +36,9 @@ Contacto {#contact}
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Experiencia en Análisis Espacial, Análisis Estadístico, Machine Learning y Optimización.
+- Experiencia en Análisis Espacial, Modelación Estadística y Machine Learning.
 
-- R, SQL, Markdown, Github, QGIS, Azure, Python
+- R, SQL, Transcad y QGIS entre otros.
 
 - Liderazgo
 
@@ -65,10 +65,18 @@ Ariel Fuentes {#title}
 --------------------------------------------------------------------------------
 Cientista de Datos especializado en la automatización, visualización, modelamiento de datos geoespaciales y de Transporte. 
 
-Apasionado en desarrollo de Metodologías para la resolución de problemas.
+Apasionado por el desarrollo de Metodologías para la resolución de problemas.
 
 Educación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Universidad de Santiago de Chile
+
+Ingeniería Civil en Geografía
+
+Santiago, Chile
+
+2021
 
 ### Coursera Project Network
 
@@ -94,15 +102,6 @@ R Programming
 Coursera
 
 2015
-
-### Universidad de Santiago de Chile
-
-Licenciatura en Ciencias de la Ingeniería, 
-Egresado Ingeniería Civil en Geografía
-
-Santiago, Chile
-
-2011
 
 Proyectos Relevantes {data-icon=laptop}
 --------------------------------------------------------------------------------
