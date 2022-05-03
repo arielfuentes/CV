@@ -72,7 +72,7 @@ Educación {data-icon=graduation-cap data-concise=true}
 
 ### Universidad de Santiago de Chile
 
-Ingeniería Civil en Geografía
+Ingeniería Civil en Geografía, Trabajo de Título: *"Propuesta Metodológica para la desagregación de demanda de Transporte Público del Sistema RED, aplicado al eje Norte-Sur de Santiago de Chile"*
 
 Santiago, Chile
 
