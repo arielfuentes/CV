@@ -38,7 +38,7 @@ Habilidades {#skills}
 
 - Experiencia en Análisis Espacial, Modelación Estadística y Machine Learning.
 
-- R, SQL, Transcad y QGIS entre otros.
+- R, SQL, Python, DAX, PowerBI, Azure ML, QGIS entre otros.
 
 - Liderazgo
 
